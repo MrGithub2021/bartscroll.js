@@ -9,4 +9,4 @@ Now your websites can too!!!
 4. `bartscroll();`
 # License
 This is protected by the [MIT License](https://github.com/MrGithub2021/bartscroll.js/blob/main/LICENSE).
-😜
+💨💨💨💨💨
